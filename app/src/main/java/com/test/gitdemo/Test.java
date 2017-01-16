@@ -5,4 +5,7 @@ package com.test.gitdemo;
  */
 
 public class Test {
+    public Test(){
+
+    }
 }
